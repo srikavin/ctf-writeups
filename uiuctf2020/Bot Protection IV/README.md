@@ -1,0 +1,1 @@
+[More Information](https://srikavin.me/blog/posts/5f1c3dfcd7e47a02e27842ca-solving-minecraft-captchas-with-neural-networks)
